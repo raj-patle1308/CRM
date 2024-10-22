@@ -58,6 +58,12 @@ Follow these steps to set up and run the Django CRM project locally:
 ### Accessing the App
 Once the server is running, you can access the application by visiting `http://127.0.0.1:8000/` in your web browser.
 
+## Default Admin Credentials
+To log in as an admin and manage records, use the following credentials:
+
+Username: admin
+Password: admin12345
+
 ## Usage
 - Navigate to the **Add Record** section to create a new customer record.
 - View the **Records** section to see all the customer records.
